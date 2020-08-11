@@ -5,4 +5,4 @@
 
 **Homepage:** 
 
-![Homepage1](/readme-images/educators1.png)
+![Homepage1](/readme-images/homepage1.png)
