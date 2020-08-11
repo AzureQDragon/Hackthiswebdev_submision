@@ -11,6 +11,7 @@ Describes the main feature of the the product which is that it allows teachers t
 
 ![Homepage1](/readme-images/homepage1.png)
 ![Homepage2](/readme-images/homepage2.png)
+![Homepage3](/readme-images/homepage3.png)
 
 ### Educators
 
