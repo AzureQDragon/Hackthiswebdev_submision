@@ -1,16 +1,13 @@
-#IntuiTeach
 
-Team Members: Jerrick Liu, Ryan Wolf, Kshitij Sinha, Brook Luo, Vibhor Gupta, Daniel Moon
-
-
-Write-up: 
-
-Home page: Gives a quick overview of what the product does. Gives a pitch to educators about the benefits of using the product.
+# IntuiTeach
 
 
+**Team Members:** Jerrick Liu, Ryan Wolf, Kshitij Sinha, Brook Luo, Vibhor Gupta, Daniel Moon
+**Description of product:** Our web app would help improve engagement for younger learners by incentivizing correct answers with rewards. Also, it would increase the teacher’s ability to gauge the students’ understanding by providing them with in depth statistics about the time taken by students to answer, and the accuracy of the class. Developers can expand on our base with our flexible API to track a teacher’s question sets and student statistics so that it can be integrated to different platforms, for example a mobile app.
 
-About page: Shows specific features as well as the benefits of using the product.
+**Homepage:** Describes the main feature of the the product which is that it allows teachers to interact with students better while live.
 
+![Homepage1](/readme-images/homepage1.png)
 
-
-Educators page: Gives instructions to educators on how to get started with the product.
+**Hompage2:** 
+![Homepage2](/readme-images/homepage2.png)
