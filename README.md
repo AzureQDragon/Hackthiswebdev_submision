@@ -5,4 +5,4 @@
 
 **Homepage:** 
 
-![Homepage1] (https://github.com/AzureQDragon/Hackthiswebdev_submission/blob/master/readme-images/homepage1.png?raw=true)
+![Homepage1] (/readme-images/homepage1.png)
