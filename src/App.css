@@ -1,0 +1,308 @@
+.App {
+  text-align: center;
+  overflow-y: hidden;
+
+}
+
+.side{
+ position: absolute;
+ top: 0;
+ left: 0;
+ height: 98%;
+}
+
+.home-org-header{
+  position: absolute;
+  z-index:20;
+  top: 10%;
+  left: 3%;
+  font-size: 2.5vw;
+  font-family: 'Oxygen';
+  color: white;
+}
+.logo {
+  position: absolute;
+  top: 10px;
+  left: 3px;
+  pointer-events: none;
+}
+.nav{
+  z-index: 100;
+}
+.rside{
+  height: 100%;
+  position: absolute;
+  left: calc(100% - 289px);
+
+}
+
+.rside-home{
+  position: absolute;
+  left: calc(100% - 294px);
+}
+.addfile{
+  height: 30px;
+  width: 30px;
+}
+.side-educators{
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.side-home{
+  height: 223%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#home{
+  padding-left: 20px;
+  height:223%;
+}
+
+.home-header {
+  background: linear-gradient(94.47deg, rgba(155, 81, 224, 0.85) 0.54%, #7875E3 98.53%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding-bottom: 114.1%;
+  width: 100%;
+  top:0;
+  left:0;
+  position: absolute;
+  z-index: 0;
+}
+
+.container-img-txt{
+  display: flex;
+  position: absolute;
+  z-index: 30;
+  background-color: transparent;
+  justify-content: space-between;
+}
+
+.dashboard-back{
+  background-color: #E5E5E5;
+  padding-left: 40%;
+  z-index: 40;
+}
+.container-img-txt img {
+  height: 100%;
+  width: 35%;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(40, 41, 61, 0.08), 0px 20px 32px rgba(96, 97, 112, 0.24);
+  background-color: white;
+  padding: 2%;
+}
+
+.container-img-txt > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 60%;
+  background-color: transparent;
+}
+
+.dashboard-container{
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(40, 41, 61, 0.08), 0px 20px 32px rgba(96, 97, 112, 0.24);
+  background-color: white;
+  padding: 2%;
+}
+.container-img-txt h2, p {
+  text-align: left;
+  font-family: 'Oxygen';
+  color: white;
+}
+
+.home-feedback-layout {
+  top: 25%;
+  left: 20%;
+  width: 60%;
+  height: 30%;
+}
+
+.home-feedback-h2 {
+  font-size: 3vw;
+  font-weight: 600;
+}
+
+.home-feedback-button-container{
+  width: 100%;
+  display: flex;
+  background-color: transparent;
+  justify-content: space-start;
+}
+
+.home-feedback-button-container Button{
+  margin-right: 10%;
+}
+
+.home-statistics-layout {
+  top: 95%;
+  left: 20%;
+  width: 60%;
+  height: 30%;
+}
+
+.home-statistics-h2 {
+  font-size: 3vw;
+  font-weight: 600;
+}
+.home-get-started-layout{
+  top: 160%;
+  left: 20%;
+  width: 70%;
+  height: 30%;
+  
+}
+
+.dasbhoard-text{
+  color: black;
+}
+.dashboard-card{
+  position: absolute;
+  top: 20%;
+  left: 10%;
+  width: 80%;
+  height: 70%;
+  display: block;
+}
+
+.home-get-started-h2{
+  font-size: 3vw;
+  font-weight: 600;
+}
+
+.home-statistics-p {
+  font-size: 1.5vw;
+  font-weight: normal;
+}
+
+.header {
+  background: linear-gradient(94.47deg, rgba(155, 81, 224, 0.85) 0.54%, #7875E3 98.53%);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  width: 100%;
+  top:0;
+  left:0;
+  position: absolute;
+  z-index: 0;
+}
+.page-header{
+  position: absolute;
+  z-index: 20;
+  top: 10%;
+  left: 3%;
+  font-family: 'Oxygen';
+  color: white;
+  font-size: 2em;
+}
+
+.students{
+  background: linear-gradient(94.47deg, rgba(155, 81, 224, 0.85) 0.54%, #7875E3 98.53%);
+}
+
+.enter-meeting-header{
+  position: absolute;
+  z-index: 20;
+  top: 10%;
+  left: 20%;
+  font-family: 'Oxygen';
+  color: white;
+  font-size: 3em;
+  font-weight: 500;
+}
+
+.student-form{
+  position: absolute;
+  top: 30%;
+  left: 20%;
+  z-index: 30;
+  width: 60%;
+  text-align: left;
+}
+
+.student-form-text-padding{
+  padding-top: 0%;
+  padding-bottom: 10%;
+}
+
+.student-form-label{
+  font-family: 'Oxygen';
+  font-size: x-large;
+  color: white;
+}
+
+.educators{
+  background: linear-gradient(94.47deg, rgba(155, 81, 224, 0.85) 0.54%, #7875E3 98.53%);
+}
+
+.eduactors-contents-layout{
+  top: 32%;
+  left: 18%;
+  width: 65%;
+  height: 35%;
+}
+
+.educator-h2 {
+  font-size: 2.5vw;
+  font-weight: 600;
+}
+
+.educator-p {
+  font-size: 1.2em;
+}
+
+.educator-login {
+  float:left;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.main-button {
+  box-shadow: 0px 2px 8px rgba(40, 41, 61, 0.08), 0px 20px 32px rgba(96, 97, 112, 0.24);
+}
+
+body{
+  overflow-x: hidden;
+  background-color: #E5E5E5;
+  
+}
+
+#left{
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#right{
+  position: absolute;
+  left: 120%;
+}
+
+#login{
+  padding-left: 1500px;
+}
+
+#get-started-button{
+  position: absolute;
+  top: 200%;
+}
+
+#no-padding{
+  padding: 0;
+}
