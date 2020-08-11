@@ -12,10 +12,10 @@ The homepage describes the main feature of the the product: allowing teachers to
 ![Homepage1](/readme-images/homepage1.png)
 ![Homepage2](/readme-images/homepage2.png)
 ![Homepage3](/readme-images/homepage3.png)
-
+![Homepage4](/readme-images/homepage4.png)
 ### Educators
 
 Describes how the educator can get started with the tool.
 
-![Educators](/readme-images/educators.png)
+![Educators](/readme-images/educators1.png)
  
