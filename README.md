@@ -6,3 +6,6 @@
 **Homepage:** Describes the main feature of the the product which is that it allows teachers to interact with students better while live.
 
 ![Homepage1](/readme-images/homepage1.png)
+
+![Homepage2](/readme-images/homepage2.png)
+
