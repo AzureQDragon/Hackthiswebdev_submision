@@ -72,8 +72,8 @@ const Home = () => (
     <div className='container-img-txt home-feedback-layout'>
       <img src={home_rotate} alt='Rotation Icon'/>
       <div>
-        <h2 className='home-feedback-h2'>Live feedback for live teaching</h2>
-        <p className='home-statistics-p'>Plugin that allows teachers to quiz their students in real time</p>
+        <h2 className='home-container-h2'>Live feedback for live teaching</h2>
+        <p className='home-container-p'>Plugin that allows teachers to quiz their students in real time</p>
         <div className='home-feedback-button-container'>
           <Button className='main-button' variant='primary' size='lg'>Students</Button>
           <Button className='main-button' variant='primary' size='lg'>Educators</Button>
@@ -83,8 +83,8 @@ const Home = () => (
 
     <div className='container-img-txt home-statistics-layout'>
       <div>
-        <h2 className='home-statistics-h2'>Understanding Students Through Statistics</h2>
-        <p className='home-statistics-p'>Allows educators to gauge participation
+        <h2 className='home-container-h2'>Understanding Students Through Statistics</h2>
+        <p className='home-container-p'>Allows educators to gauge participation
         and identify student success through a dashboard</p>
       </div>
       <img src={student_stats} alt='Student Pie Chart'/>
@@ -92,8 +92,9 @@ const Home = () => (
 
     <div className='container-img-txt home-get-started-layout'>
       <div>
-        <h2 className='home-get-started-h2'>A better way to understand students</h2>
-        <h2 className='home-get-started-h2'>A better way to help students</h2>
+        <h2 className='home-container-h2'>Encouraging Student Engagement</h2>
+        <h2 className='home-container-p'>Point-based reward system ensures students participate 
+        in the classroom</h2>
       </div>
       <img src={get_started} alt=''/>
     </div>
