@@ -12,4 +12,4 @@ The homepage of our web app describes the main feature of the the product which 
 ![Homepage1](/readme-images/homepage1.png)
 ![Homepage2](/readme-images/homepage2.png)
 
-Through our navbar at the top, teachers will create meetings through the Zoom API, be authenticated, and have their data stored in the API's we designed in our Mongo database. From their, students will be able to join through the meeting id which redirects them to the specific meeting they requesting to join, again handled by our API. 
+Through our navbar at the top, teachers will create meetings through the Zoom API, be authenticated, and have their data stored in the API's we designed in our Mongo database. From there, students will be able to join through the meeting ID, which redirects them to the meeting they requested to join--again handled by our API. 
