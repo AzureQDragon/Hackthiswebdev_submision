@@ -12,6 +12,7 @@ import home_rotate from './images/home_rotate.svg';
 import student_stats from './images/student_stats.svg';
 import struggling from './images/struggling.svg'
 import get_started from './images/get_started.svg';
+import developer from './images/developer.svg';
 import Quizmaker from './Quizmaker.js';
 import './App.css';
 import { NavLink, Switch, Route } from 'react-router-dom';
@@ -99,16 +100,26 @@ const Home = () => (
       <img src={trophy} alt=''/>
     </div>
 
-  <div className='container-img-txt home-streamlining-layout'>
-    <img src={get_started} alt=''/>
-     <div>
-       <h2 className='home-container-h2'>Streamlining Virtual Learning</h2>
-       <h2 className='home-container-p'>Facilitates student-teacher and peer-to-peer communication, 
-       making virtual classrooms more enjoyable for students</h2>
-       <Button className='main-button' variant='primary' size='lg'>Get Started</Button>
-     </div>
-   </div>
- </div>
+    <div className='container-img-txt home-streamlining-layout'>
+      <img src={get_started} alt=''/>
+      <div>
+        <h2 className='home-container-h2'>Streamlining Virtual Learning</h2>
+        <h2 className='home-container-p'>Facilitates student-teacher and peer-to-peer communication, 
+        making virtual classrooms more enjoyable for students</h2>
+        <Button className='main-button' variant='primary' size='lg'>Get Started</Button>
+      </div>
+    </div>
+
+    <div className='container-img-txt home-developer-layout'>
+      <div>
+        <h2 className='home-container-h2'>Developer-Friendly API</h2>
+        <h2 className='home-container-p'>Our flexible API allows IntuiTeach to easily be integrated to 
+        different platforms</h2>
+        <Button className='main-button' variant='primary' size='lg'>Documentation</Button>
+      </div>
+      <img src={developer} alt=''/>
+    </div>
+  </div>
 
 );
 
