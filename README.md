@@ -14,9 +14,15 @@ The homepage describes the main feature of the the product: allowing teachers to
 ![Homepage3](/readme-images/homepage3.png)
 ![Homepage4](/readme-images/homepage4.png)
 ![Homepage5](/readme-images/homepage5.png)
+
 ### Educators
 
 Describes how the educator can get started with the tool.
 
 ![Educators](/readme-images/educators1.png)
  
+### Students
+
+UI for student joining Zoom meetings in the api.
+
+![Students](/readme-images/students.png)
