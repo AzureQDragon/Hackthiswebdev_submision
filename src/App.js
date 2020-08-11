@@ -96,11 +96,11 @@ const Home = () => (
         <h2 className='home-container-p'>Point-based reward system ensures students participate 
         in the classroom</h2>
       </div>
-      <img src={get_started} alt=''/>
+      <img src={trophy} alt=''/>
     </div>
 
   <div className='container-img-txt home-streamlining-layout'>
-    <img src={trophy} alt=''/>
+    <img src={get_started} alt=''/>
      <div>
        <h2 className='home-container-h2'>Streamlining Virtual Learning</h2>
        <h2 className='home-container-p'>Facilitates student-teacher and peer-to-peer communication, 
