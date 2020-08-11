@@ -90,16 +90,25 @@ const Home = () => (
       <img src={student_stats} alt='Student Pie Chart'/>
     </div>
 
-    <div className='container-img-txt home-get-started-layout'>
+    <div className='container-img-txt home-encouraging-layout'>
       <div>
         <h2 className='home-container-h2'>Encouraging Student Engagement</h2>
         <h2 className='home-container-p'>Point-based reward system ensures students participate 
         in the classroom</h2>
       </div>
-      <img src={get_started} alt=''/>
+      <img src={trophy} alt=''/>
     </div>
-    <Button variant='primary' size='lg' id='get-started-button'>Get Started</Button>
-  </div>
+
+  <div className='container-img-txt home-streamlining-layout'>
+    <img src={get_started} alt=''/>
+     <div>
+       <h2 className='home-container-h2'>Streamlining Virtual Learning</h2>
+       <h2 className='home-container-p'>Facilitates student-teacher and peer-to-peer communication, 
+       making virtual classrooms more enjoyable for students</h2>
+       <Button className='main-button' variant='primary' size='lg'>Get Started</Button>
+     </div>
+   </div>
+ </div>
 
 );
 
