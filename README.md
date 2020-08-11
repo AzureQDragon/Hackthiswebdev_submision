@@ -7,16 +7,22 @@ IntuiTeach is a web app combined with Zoom that allows teachers to write a serie
 
 ### Homepage
 
-The homepage describes the main feature of the the product: allowing teachers to better interact with students while live. The homepage also describes the dashboard that teachers can use and its utility. The website also describes the poin-based system that allows for better engagement with students. After this, it details the the benefits of the the plugin in classrooms and how it could help. The final paragraph describes how developers can get expand upon the original codebase to allow for better statistics processing.
+The homepage describes the main feature of the the product: allowing teachers to better interact with students while live. The homepage also describes the dashboard that teachers can use and its utility. The website also describes the point-based system that allows for better engagement with students. After this, it details the the benefits of the the plugin in classrooms and how it could help. The final paragraph describes how developers can get expand upon the original codebase to allow for better statistics processing.
 
 ![Homepage1](/readme-images/homepage1.png)
 ![Homepage2](/readme-images/homepage2.png)
 ![Homepage3](/readme-images/homepage3.png)
 ![Homepage4](/readme-images/homepage4.png)
 ![Homepage5](/readme-images/homepage5.png)
+
 ### Educators
 
 Describes how the educator can get started with the tool.
 
 ![Educators](/readme-images/educators1.png)
  
+### Students
+
+UI for student joining Zoom meetings in the api.
+
+![Students](/readme-images/students.png)
