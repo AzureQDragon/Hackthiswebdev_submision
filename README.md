@@ -16,5 +16,5 @@ Describes the main feature of the the product which is that it allows teachers t
 
 Describes how the educator can get started with the tool.
 
-![Educators](/readme-images/educators.png)
+![Educators](/readme-images/educators1.png)
  
